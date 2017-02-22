@@ -2,6 +2,7 @@
 
 > A Vue.js project
 
+## [DEMO](https://dkunlun.github.io/animate-resume/)
 ## Build Setup
 
 ``` bash
