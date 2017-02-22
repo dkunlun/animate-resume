@@ -27,7 +27,7 @@
 
           /* 首先给所有元素加上过渡效果 */
           * {
-            transition: all .3s;
+            transition-duration: all .3s;
           }
           /* 白色背景太单调了，我们来点背景 */
           html {
